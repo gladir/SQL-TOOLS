@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans SQL-TOOLS :
 			<th>Description</th>	
 		</tr>
 		<tr>
+			<td><b>CSV2SQL.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier .CSV en format SQL.</td>
+		</tr>	
+		<tr>
 			<td><b>DBF2SQL.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier .DBF (DBase III) en format SQL.</td>
 		</tr>  
